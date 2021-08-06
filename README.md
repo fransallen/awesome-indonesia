@@ -23,6 +23,7 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 -   [BagiRata](https://bagirata.id/) - Platform subsidi silang untuk membantu kondisi finansial para pekerja yang terkena dampak ekonomi di tengah ketidakpastian pandemi COVID-19.
 -   [Karyakarsa](https://karyakarsa.com/) - Platform yang memudahkan kreator mendapatkan dukungan finansial secara langsung dari fans.
 -   [Supersewa](https://supersewa.com/) - Sebuah SaaS penyewaan alat-alat kebutuhan.
+-   [SlashApi](https://slashapi.com/) - SlashApi is a web platform to build REST APIs fast without having to write any code yourself. SlashApi connects with all common apps and tools that you use every day.
 
 ## Events
 
