@@ -36,8 +36,8 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 ## Miscellaneous
 
 -   [thedev.id](https://thedev.id/) - A free thedev.id subdomain for developers. Connect to GitHub Pages, Netlify, Vercel or others.
--   [IRO](https://iro.nyandev.id) - Color converter, generator and inspection tools. Amazing Color Tools. 
--   [InstaShare](https://share.nyandev.id) - Instant File Sharing powered by IPFS Network
+-   [IRO](https://iro.nyandev.id/) - Color converter, generator and inspection tools. Amazing Color Tools. 
+-   [InstaShare](https://share.nyandev.id/) - Instant File Sharing powered by IPFS Network.
 
 ## Learning
 
