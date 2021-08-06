@@ -14,9 +14,27 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 
 -   [Mecha CMS](https://mecha-cms.com/) - A flat-file content management system for minimalists.
 
+## Design
+
+-   [Blobbb Fun](https://blobbb.fun/) - Create your fluffy blobby SVG shapes in seconds. It's super fun!
+
 ## Development Environment
 
 -   [LEMPer](https://github.com/joglomedia/LEMPer) - A terminal-based LEMP stack manager for Debian/Ubuntu cloud or virtual server (vps) and on-premise (bare metal).
+
+## Events
+
+-   [WordCamp Jakarta](https://jakarta.wordcamp.org/)
+
+## Learning
+
+-   [Idiom is Fun](https://idiomis.fun/) - A collection of hundreds English idioms so that you can understand what every native speakers actually talk about.
+
+## Miscellaneous
+
+-   [thedev.id](https://thedev.id/) - A free thedev.id subdomain for developers. Connect to GitHub Pages, Netlify, Vercel or others.
+-   [IRO](https://iro.nyandev.id/) - Color converter, generator and inspection tools. Amazing Color Tools. 
+-   [InstaShare](https://share.nyandev.id/) - Instant File Sharing powered by IPFS Network.
 
 ## Platforms
 
@@ -25,24 +43,6 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 -   [Supersewa](https://supersewa.com/) - Sebuah SaaS penyewaan alat-alat kebutuhan.
 -   [SlashApi](https://slashapi.com/) - SlashApi is a web platform to build REST APIs fast without having to write any code yourself. SlashApi connects with all common apps and tools that you use every day.
 
-## Events
-
--   [WordCamp Jakarta](https://jakarta.wordcamp.org/)
-
 ## Testing
 
 -   [CekWebsiteSaya.com](https://cekwebsitesaya.com/) - Alat pengecekan status website menggunakan jaringan Telkom Indonesia.
-
-## Miscellaneous
-
--   [thedev.id](https://thedev.id/) - A free thedev.id subdomain for developers. Connect to GitHub Pages, Netlify, Vercel or others.
--   [IRO](https://iro.nyandev.id/) - Color converter, generator and inspection tools. Amazing Color Tools. 
--   [InstaShare](https://share.nyandev.id/) - Instant File Sharing powered by IPFS Network.
-
-## Learning
-
--   [Idiom is Fun](https://idiomis.fun/) - A collection of hundreds English idioms so that you can understand what every native speakers actually talk about.
-
-## Design
-
--   [Blobbb Fun](https://blobbb.fun/) - Create your fluffy blobby SVG shapes in seconds. It's super fun!
