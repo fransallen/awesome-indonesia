@@ -30,6 +30,7 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 ## Design
 
 - [Blobbb Fun](https://blobbb.fun/) - Create your fluffy blobby SVG shapes in seconds. It's super fun!
+- [BlobCDN](https://upset.dev/blobcdn) - The CDN for beautiful SVG shapes.
 
 ## Development Environment
 
