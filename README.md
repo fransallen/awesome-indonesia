@@ -61,3 +61,4 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 ## Testing
 
 - [CekWebsiteSaya.com](https://cekwebsitesaya.com/) - Alat pengecekan status website menggunakan jaringan Telkom Indonesia.
+- [Indostatus](https://indostatus.com/) - Independent monitoring for government websites and public information center.
