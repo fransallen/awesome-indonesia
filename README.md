@@ -43,6 +43,7 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 ## Learning
 
 - [Idiom is Fun](https://idiomis.fun/) - A collection of hundreds English idioms so that you can understand what every native speakers actually talk about.
+- [PuloDev](https://pulo.dev/) - Kumpulan konten developer berbahasa Indonesia.
 
 ## Miscellaneous
 
