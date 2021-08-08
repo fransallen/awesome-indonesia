@@ -17,6 +17,11 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 
 ## Books
 
+- [Belajar Dengan Jenius Golang](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Golang) - Ebook gratis untuk belajar Golang.
+- [Belajar Dengan Jenius NodeJs](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-AWS-Node.js) - Ebook gratis untuk belajar NodeJs.
+- [Belajar Dengan Jenius Deno](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DenoTheWKWKLand) - Ebook gratis untuk belajar Deno.
+- [Belajar Dengan Jenius JavasSript](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DenoTheWKWKLand) - Ebook gratis untuk belajar JavaScript.
+- [Belajar Dengan Jenius PHP](https://github.com/gungunfebrianza/Mastering-PHP7) - Ebook gratis untuk belajar PHP.
 - [Mengenal JavaScript](https://masputih.com/2013/01/ebook-gratis-mengenal-javascript) - Ebook gratis untuk belajar JavaScript.
 
 ## Content Delivery Network
@@ -35,6 +40,9 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 
 ## Development Environment
 
+- [Bangjago Emulatior](https://github.com/restuwahyu13/bangjago-android-emulator) - Is simple android emulator cli for mobile development on windows.
+- [Gopack CLI](https://github.com/restuwahyu13/gopack-cli) - Is instant package downloader for Go Programming.
+- [Kraken Node](https://github.com/restuwahyu13/kraken-node) Is dependency injection to register module to global access
 - [LEMPer](https://github.com/joglomedia/LEMPer) - A terminal-based LEMP stack manager for Debian/Ubuntu cloud or virtual server (vps) and on-premise (bare metal).
 
 ## Events
