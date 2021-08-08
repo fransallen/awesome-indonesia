@@ -24,6 +24,21 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 - [Belajar Dengan Jenius PHP](https://github.com/gungunfebrianza/Mastering-PHP7) - Ebook gratis untuk belajar PHP.
 - [Mengenal JavaScript](https://masputih.com/2013/01/ebook-gratis-mengenal-javascript) - Ebook gratis untuk belajar JavaScript.
 
+## Bootcamp And Online Learning
+
+- [Arkademy](https://www.arkademy.com/) - Program pelatihan dan penyaluran kerja untuk berkarir di bidang teknologi.
+- [Baba Studio](https://www.babastudio.com/) - Kursus Web, Digital Marketing & Toko Online Terbaik di Jakarta, Serpong dan Bekasi.
+- [Belajar Koding](https://belajarkoding.com/) - Belajar ilmu coding dan desain untuk karirmu sekarang — kembangkan skill — dapatkan pekerjaan impian IT kamu. COBA GRATIS!
+- [Build With Angga](https://buildwithangga.com/) - Logo buildwithangga · Flash Sale; Kelas. Kelas Design. UI/UX & Graphic Design · Kelas Koding. Full-Stack Developer · Kelas Soft Skills.
+- [Codepolitan](https://www.codepolitan.com/) - Website tempat belajar pemrograman berbahasa Indonesia lengkap dengan beragam format seperti kelas online, tutorial, training dan ebook.
+- [Dicoding](https://www.dicoding.com/) - Jadilah developer expert menggunakan kurikulum standar internasional dari principal technology owner seperti Google, Microsoft, AWS, IBM, dan LINE.
+- [Dumbways](https://dumbways.id/) - DumbWays merupakan Coding Bootcamp GRATIS pertama di Indonesia. Siswa akan dibekali kemampuan standard industri.
+- [Hacktiv8](https://www.hacktiv8.com/) - Sebuah pelatihan yang terdiri dari Full Time Program dan Professional Development demi mempersiapkan digital talent di Indonesia.
+- [Jago Web Dev](https://jagowebdev.com/) - Learning center, pusat belajar web development terbaik.
+- [Progate](https://progate.com/) - Progate is an online platform to learn programming. Learn to build your own apps and services.
+- [Sekolah Koding](https://sekolahkoding.com/) - Tempat belajar programming mulai dari dasar untuk membuat website atau aplikasi dalam bahasa indonesia melalui tulisan dan video tutorial.
+- [Refactory](https://refactory.id/) - Online learning course dan Bootcamp programming.
+
 ## Content Delivery Network
 
 - [Statically](https://statically.io/) - A free CDN for developers.
@@ -42,6 +57,9 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 
 - [Bangjago Emulatior](https://github.com/restuwahyu13/bangjago-android-emulator) - Is simple android emulator cli for mobile development on windows.
 - [Gopack CLI](https://github.com/restuwahyu13/gopack-cli) - Is instant package downloader for Go Programming.
+- [Go Playground Converter](https://github.com/restuwahyu13/go-playground-converter) - Is formatter error response inspiration like express-validator in nodejs build on top go-playground-validator.
+- [Graphql Typedefs Loader](https://github.com/restuwahyu13/graphql-typedefs-loader) - Is multiple loader for graphql schema file
+- [Is Any Type](https://github.com/restuwahyu13/is-any-type) - Is simple functionality alternative to check data type references such as typeof and instanceof
 - [Kraken Node](https://github.com/restuwahyu13/kraken-node) Is dependency injection to register module to global access
 - [LEMPer](https://github.com/joglomedia/LEMPer) - A terminal-based LEMP stack manager for Debian/Ubuntu cloud or virtual server (vps) and on-premise (bare metal).
 
@@ -51,8 +69,14 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 
 ## Learning
 
-- [Idiom is Fun](https://idiomis.fun/) - A collection of hundreds English idioms so that you can understand what every native speakers actually talk about.
+- [Daeng Web](https://daengweb.id/) - Ngoding itu mudah & menyenangkan, bila segera dikerjakan tanpa banyak alasan. Belajar Sekarang
+- [Dunia Ilkom](https://www.duniailkom.com/) - Duniailkom adalah web belajar programming Bahasa Indonesia. Membahas lengkap materi pemrograman HTML, CSS, PHP Dll.
+- [Idiom Is Fun](https://idiomis.fun/) - A collection of hundreds English idioms so that you can understand what every native speakers actually talk about.
+- [Jago Web Dev](https://jagowebdev.com/)
+- [Petani Code](https://www.petanikode.com/) - Website tempat belajar budidaya kode (coding/pemrograman) dengan tutorial terupdate dan mudah dipahami pemula.
 - [PuloDev](https://pulo.dev/) - Kumpulan konten developer berbahasa Indonesia.
+- [Malas Ngoding](https://www.malasngoding.com/) - Malas Ngoding adalah blog yang membahas tentang tutorial belajar pemrograman web, mobile, design.
+- [Mahir Koding](https://www.mahirkoding.com/)  - Mahir Koding adalah situs edukasi seputar pemrograman dan informasi tentang teknologi terbarukan
 
 ## Miscellaneous
 
