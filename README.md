@@ -22,8 +22,8 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 - [Belajar Dengan Jenius Golang](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Golang) - Ebook gratis untuk belajar Golang.
 - [Belajar Dengan Jenius Node.js](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-AWS-Node.js) - Ebook gratis untuk belajar NodeJs.
 - [Belajar Dengan Jenius Deno](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DenoTheWKWKLand) - Ebook gratis untuk belajar Deno.
-- [Belajar Dengan Jenius JavaSript](https://github.com/gungunfebrianza/Mastering-Javascript) - Ebook gratis untuk belajar JavaScript.
-- [Belajar Dengan Jenius PHP](https://github.com/gungunfebrianza/Mastering-PHP7) - Ebook gratis untuk belajar PHP.
+- [Mastering JavaScript](https://github.com/gungunfebrianza/Mastering-Javascript) - Ebook gratis untuk belajar JavaScript.
+- [Mastering PHP 7](https://github.com/gungunfebrianza/Mastering-PHP7) - Ebook gratis untuk belajar PHP.
 - [Mengenal JavaScript](https://masputih.com/2013/01/ebook-gratis-mengenal-javascript) - Ebook gratis untuk belajar JavaScript.
 
 ## Bootcamp
