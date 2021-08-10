@@ -24,19 +24,14 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 - [Belajar Dengan Jenius PHP](https://github.com/gungunfebrianza/Mastering-PHP7) - Ebook gratis untuk belajar PHP.
 - [Mengenal JavaScript](https://masputih.com/2013/01/ebook-gratis-mengenal-javascript) - Ebook gratis untuk belajar JavaScript.
 
-## Bootcamp And Online Learning
+## Bootcamp
 
 - [Arkademy](https://www.arkademy.com/) - Program pelatihan dan penyaluran kerja untuk berkarir di bidang teknologi.
 - [Baba Studio](https://www.babastudio.com/) - Kursus Web, Digital Marketing & Toko Online Terbaik di Jakarta, Serpong dan Bekasi.
-- [Belajar Koding](https://belajarkoding.com/) - Belajar ilmu coding dan desain untuk karirmu sekarang — kembangkan skill — dapatkan pekerjaan impian IT kamu. COBA GRATIS!
-- [Build With Angga](https://buildwithangga.com/) - Logo buildwithangga · Flash Sale; Kelas. Kelas Design. UI/UX & Graphic Design · Kelas Koding. Full-Stack Developer · Kelas Soft Skills.
 - [Codepolitan](https://www.codepolitan.com/) - Website tempat belajar pemrograman berbahasa Indonesia lengkap dengan beragam format seperti kelas online, tutorial, training dan ebook.
 - [Dicoding](https://www.dicoding.com/) - Jadilah developer expert menggunakan kurikulum standar internasional dari principal technology owner seperti Google, Microsoft, AWS, IBM, dan LINE.
 - [Dumbways](https://dumbways.id/) - DumbWays merupakan Coding Bootcamp GRATIS pertama di Indonesia. Siswa akan dibekali kemampuan standard industri.
 - [Hacktiv8](https://www.hacktiv8.com/) - Sebuah pelatihan yang terdiri dari Full Time Program dan Professional Development demi mempersiapkan digital talent di Indonesia.
-- [Jago Web Dev](https://jagowebdev.com/) - Learning center, pusat belajar web development terbaik.
-- [Progate](https://progate.com/) - Progate is an online platform to learn programming. Learn to build your own apps and services.
-- [Sekolah Koding](https://sekolahkoding.com/) - Tempat belajar programming mulai dari dasar untuk membuat website atau aplikasi dalam bahasa indonesia melalui tulisan dan video tutorial.
 - [Refactory](https://refactory.id/) - Online learning course dan Bootcamp programming.
 
 ## Content Delivery Network
@@ -83,6 +78,14 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 - [InstaShare](https://share.nyandev.id/) - Instant File Sharing powered by IPFS Network.
 - [IRO](https://iro.nyandev.id/) - Color converter, generator and inspection tools. Amazing Color Tools.
 - [thedev.id](https://thedev.id/) - A free thedev.id subdomain for developers. Connect to GitHub Pages, Netlify, Vercel or others.
+
+## Online Learning
+
+- [Belajar Koding](https://belajarkoding.com/) - Belajar ilmu coding dan desain untuk karirmu sekarang — kembangkan skill — dapatkan pekerjaan impian IT kamu. COBA GRATIS!
+- [Build With Angga](https://buildwithangga.com/) - Logo buildwithangga · Flash Sale; Kelas. Kelas Design. UI/UX & Graphic Design · Kelas Koding. Full-Stack Developer · Kelas Soft Skills.
+- [Jago Web Dev](https://jagowebdev.com/) - Learning center, pusat belajar web development terbaik.
+- [Progate](https://progate.com/) - Progate is an online platform to learn programming. Learn to build your own apps and services.
+- [Sekolah Koding](https://sekolahkoding.com/) - Tempat belajar programming mulai dari dasar untuk membuat website atau aplikasi dalam bahasa indonesia melalui tulisan dan video tutorial.
 
 ## Platforms
 
