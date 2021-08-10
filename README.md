@@ -58,7 +58,7 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 - [Blobbb Fun](https://blobbb.fun/) - Create your fluffy blobby SVG shapes in seconds. It's super fun!
 - [BlobCDN](https://upset.dev/blobcdn) - The CDN for beautiful SVG shapes.
 - [Color Picker](https://taufik-nurrohman.js.org/color-picker/) - A simple color picker written in pure JavaScript, for modern browsers.
-- [Mazer](https://zuramai.github.io/mazer/) - Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page 
+- [Mazer](https://zuramai.github.io/mazer/) - Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page.
 - [Stisla](https://getstisla.com/) - Free Bootstrap Admin Template.
 
 ## Development Environment
