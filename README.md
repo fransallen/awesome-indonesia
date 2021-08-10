@@ -6,6 +6,7 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 
 - [Books](#books)
 - [Bootcamp](#bootcamp)
+- [Community](#community)
 - [Content Delivery Network](#content-delivery-network)
 - [Content Management Systems](#content-management-systems)
 - [Design](#design)
@@ -37,6 +38,11 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 - [Dumbways](https://dumbways.id/) - DumbWays merupakan Coding Bootcamp GRATIS pertama di Indonesia. Siswa akan dibekali kemampuan standard industri.
 - [Hacktiv8](https://www.hacktiv8.com/) - Sebuah pelatihan yang terdiri dari Full Time Program dan Professional Development demi mempersiapkan digital talent di Indonesia.
 - [Refactory](https://refactory.id/) - Online learning course dan Bootcamp programming.
+
+## Community
+
+- [evilfactorylabs](https://www.evilfactorylabs.org/) - evilfactorylabs exists to trying bridging the skills gap in IT industry in Indonesia.
+- [Kodinger](https://kodinger.com/) - Dari coder untuk semua orang | Memberi wawasan seputar web development, dan teknologi informasi lainnya.
 
 ## Content Delivery Network
 
