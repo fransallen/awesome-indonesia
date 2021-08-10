@@ -25,7 +25,7 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 - [Mastering JavaScript](https://github.com/gungunfebrianza/Mastering-Javascript) - Ebook gratis untuk belajar JavaScript.
 - [Mastering PHP 7](https://github.com/gungunfebrianza/Mastering-PHP7) - Ebook gratis untuk belajar PHP.
 - [Mengenal JavaScript](https://masputih.com/2013/01/ebook-gratis-mengenal-javascript) - Ebook gratis untuk belajar JavaScript.
-
+- [Tailwind CSS](https://multinity.id/book/tailwind-css) - Ebook untuk belajar Tailwind CSS Bahasa Indonesia
 ## Bootcamp
 
 - [Arkademy](https://www.arkademy.com/) - Program pelatihan dan penyaluran kerja untuk berkarir di bidang teknologi.
