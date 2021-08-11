@@ -4,20 +4,18 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 
 ## Contents
 
-- [Awesome Indonesia ![Awesome](https://github.com/fransallen/awesome.id)](#awesome-indonesia-)
-  - [Contents](#contents)
-  - [Books](#books)
-  - [Bootcamp](#bootcamp)
-  - [Content Delivery Network](#content-delivery-network)
-  - [Content Management Systems](#content-management-systems)
-  - [Design](#design)
-  - [Development Environment](#development-environment)
-  - [Events](#events)
-  - [Learn](#learn)
-  - [Learn (Video)](#learn-video)
-  - [Miscellaneous](#miscellaneous)
-  - [Platforms](#platforms)
-  - [Testing](#testing)
+- [Books](#books)
+- [Bootcamp](#bootcamp)
+- [Content Delivery Network](#content-delivery-network)
+- [Content Management Systems](#content-management-systems)
+- [Design](#design)
+- [Development Environment](#development-environment)
+- [Events](#events)
+- [Learn](#learn)
+- [Learn (Video)](#learn-video)
+- [Miscellaneous](#miscellaneous)
+- [Platforms](#platforms)
+- [Testing](#testing)
 
 ## Books
 
