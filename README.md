@@ -86,7 +86,6 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 
 - [Belajar Koding](https://belajarkoding.com/) - Belajar coding, desain dan development secara gratis.
 - [Build With Angga](https://buildwithangga.com/) - Belajar design dan code.
-- [Jago Web Dev](https://jagowebdev.com/) - Pusat belajar web development.
 - [Multinity](https://multinity.id/) - Kursus affordable web development, UI desain, dan lainnya.
 - [Progate](https://progate.com/) - Situs belajar coding.
 - [Sekolah Koding](https://sekolahkoding.com/) - Tempat belajar programming mulai dari dasar untuk membuat website atau aplikasi dalam Bahasa Indonesia melalui tulisan dan video tutorial.
