@@ -52,11 +52,11 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 - [Blobbb Fun](https://blobbb.fun/) - Create your fluffy blobby SVG shapes in seconds. It's super fun!
 - [BlobCDN](https://upset.dev/blobcdn) - The CDN for beautiful SVG shapes.
 - [Color Picker](https://taufik-nurrohman.js.org/color-picker/) - A simple color picker written in pure JavaScript, for modern browsers.
-- [Stisla](https://getstisla.com/) - Free Bootstrap Admin Template.
+- [Stisla](https://getstisla.com/) - A free Bootstrap admin template.
 
 ## Development Environment
 
-- [Bangjago Emulator](https://github.com/restuwahyu13/bangjago-android-emulator) - Is simple android emulator cli for mobile development on windows.
+- [Bangjago Emulator](https://github.com/restuwahyu13/bangjago-android-emulator) - A simple Android emulator for mobile development on Windows.
 - [Gopack CLI](https://github.com/restuwahyu13/gopack-cli) - Is instant package downloader for Go Programming.
 - [Go Playground Converter](https://github.com/restuwahyu13/go-playground-converter) - Is formatter error response inspiration like express-validator in nodejs build on top go-playground-validator.
 - [Graphql Typedefs Loader](https://github.com/restuwahyu13/graphql-typedefs-loader) - Is multiple loader for graphql schema file
