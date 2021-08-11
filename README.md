@@ -60,9 +60,9 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 - [Bangjago Emulator](https://github.com/restuwahyu13/bangjago-android-emulator) - A simple Android emulator for mobile development on Windows.
 - [Gopack CLI](https://github.com/restuwahyu13/gopack-cli) - An instant package downloader for Golang.
 - [Go Playground Converter](https://github.com/restuwahyu13/go-playground-converter) - Is formatter error response inspiration like express-validator in nodejs build on top go-playground-validator.
-- [Graphql Typedefs Loader](https://github.com/restuwahyu13/graphql-typedefs-loader) - Is multiple loader for graphql schema file
-- [Is Any Type](https://github.com/restuwahyu13/is-any-type) - Is simple functionality alternative to check data type references such as typeof and instanceof
-- [Kraken Node](https://github.com/restuwahyu13/kraken-node) Is dependency injection to register module to global access
+- [GraphQL Typedefs Loader](https://github.com/restuwahyu13/graphql-typedefs-loader) - Multiple loader for GraphQL schema file.
+- [Is Any Type](https://github.com/restuwahyu13/is-any-type) - A simple JavaScript function for checking data types, alternative to typeof and instanceof.
+- [Kraken Node](https://github.com/restuwahyu13/kraken-node) - Dependency injection to register module to global access.
 - [LEMPer](https://github.com/joglomedia/LEMPer) - A terminal-based LEMP stack manager for Debian/Ubuntu cloud or virtual server (vps) and on-premise (bare metal).
 
 ## Events
