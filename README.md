@@ -32,12 +32,12 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 
 - [Arkademy](https://www.arkademy.com/) - Program pelatihan dan penyaluran kerja untuk berkarir di bidang teknologi.
 - [Baba Studio](https://www.babastudio.com/) - Tempat kursus pemrograman web, SEO, digital marketing & bisnis online.
-- [CodePolitan](https://www.codepolitan.com/) - Website tempat belajar pemrograman berbahasa Indonesia lengkap dengan beragam format seperti kelas online, tutorial, training dan ebook.
-- [Dicoding](https://www.dicoding.com/) - Jadilah developer expert menggunakan kurikulum standar internasional dari principal technology owner seperti Google, Microsoft, AWS, IBM, dan LINE.
-- [DumbWays](https://dumbways.id/) - DumbWays merupakan Coding Bootcamp GRATIS pertama di Indonesia. Siswa akan dibekali kemampuan standard industri.
+- [CodePolitan](https://www.codepolitan.com/) - Tempat belajar pemrograman berbahasa Indonesia lengkap dengan beragam format seperti kelas online, tutorial, training dan ebook.
+- [Dicoding](https://www.dicoding.com/) - Sebuah platform edukasi teknologi.
+- [DumbWays](https://dumbways.id/) - Sebuah coding bootcamp gratis. Siswa akan dibekali kemampuan standar industri.
 - [Enigmacamp](https://www.enigmacamp.com/) - Enigmacamp merupakan bootcamp dengan model Ready To Work.
-- [Hacktiv8](https://www.hacktiv8.com/) - Sebuah pelatihan yang terdiri dari Full Time Program dan Professional Development demi mempersiapkan digital talent di Indonesia.
-- [Refactory](https://refactory.id/) - Online learning course dan Bootcamp programming.
+- [Hacktiv8](https://www.hacktiv8.com/) - Sebuah pelatihan yang terdiri dari full time program dan professional development demi mempersiapkan digital talent di Indonesia.
+- [Refactory](https://refactory.id/) - Sebuah bootcamp programming.
 
 ## Content Delivery Network
 
