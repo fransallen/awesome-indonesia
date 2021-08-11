@@ -72,7 +72,7 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 
 ## Learn
 
-- [Code Saya](https://codesaya.com/) - Situs belajar git, pemrograman PHP dan Python yang interaktif serta gratis.
+- [Code Saya](https://codesaya.com/) - CodeSaya merupakan situs belajar git, pemrograman PHP dan Python yang interaktif serta gratis.
 - [Daeng Web](https://daengweb.id/) - Ngoding itu mudah & menyenangkan, bila segera dikerjakan tanpa banyak alasan. Belajar Sekarang.
 - [Dunia Ilkom](https://www.duniailkom.com/) - Duniailkom adalah web belajar programming Bahasa Indonesia. Membahas lengkap materi pemrograman HTML, CSS, PHP Dll.
 - [Idiom Is Fun](https://idiomis.fun/) - A collection of hundreds English idioms so that you can understand what every native speakers actually talk about.
