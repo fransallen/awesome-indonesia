@@ -72,7 +72,7 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 - [Daeng Web](https://daengweb.id/) - Ngoding itu mudah & menyenangkan, bila segera dikerjakan tanpa banyak alasan. Belajar Sekarang.
 - [Dunia Ilkom](https://www.duniailkom.com/) - Duniailkom adalah web belajar programming Bahasa Indonesia. Membahas lengkap materi pemrograman HTML, CSS, PHP Dll.
 - [Idiom Is Fun](https://idiomis.fun/) - A collection of hundreds English idioms so that you can understand what every native speakers actually talk about.
-- [Jago Web Dev](https://jagowebdev.com/)
+- [Jago Web Dev](https://jagowebdev.com/) - Pusat belajar Web Development.
 - [Petani Code](https://www.petanikode.com/) - Website tempat belajar budidaya kode (coding/pemrograman) dengan tutorial terupdate dan mudah dipahami pemula.
 - [PuloDev](https://pulo.dev/) - Kumpulan konten developer berbahasa Indonesia.
 - [Malas Ngoding](https://www.malasngoding.com/) - Malas Ngoding adalah blog yang membahas tentang tutorial belajar pemrograman web, mobile, design.
