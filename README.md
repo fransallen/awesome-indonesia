@@ -90,6 +90,7 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 
 ## Miscellaneous
 
+- [Daftar API Lokal Indonesia](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA) - Berisi API tentang Data Indonesia ataupun API yang dibuat oleh developer Indonesia.
 - [Gembok Authenticator](https://github.com/rioastamal/gembok) - Software based authenticator to generate 2-Steps authentication token using browser.
 - [InstaShare](https://share.nyandev.id/) - Instant File Sharing powered by IPFS Network.
 - [IRO](https://iro.nyandev.id/) - Color converter, generator and inspection tools. Amazing Color Tools.
