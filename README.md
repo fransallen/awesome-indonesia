@@ -56,7 +56,7 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 
 ## Development Environment
 
-- [Bangjago Emulatior](https://github.com/restuwahyu13/bangjago-android-emulator) - Is simple android emulator cli for mobile development on windows.
+- [Bangjago Emulator](https://github.com/restuwahyu13/bangjago-android-emulator) - Is simple android emulator cli for mobile development on windows.
 - [Gopack CLI](https://github.com/restuwahyu13/gopack-cli) - Is instant package downloader for Go Programming.
 - [Go Playground Converter](https://github.com/restuwahyu13/go-playground-converter) - Is formatter error response inspiration like express-validator in nodejs build on top go-playground-validator.
 - [Graphql Typedefs Loader](https://github.com/restuwahyu13/graphql-typedefs-loader) - Is multiple loader for graphql schema file
