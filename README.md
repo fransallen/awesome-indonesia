@@ -42,8 +42,8 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 
 ## Community
 
-- [evilfactorylabs](https://www.evilfactorylabs.org/) - evilfactorylabs exists to trying bridging the skills gap in IT industry in Indonesia.
-- [Kodinger](https://kodinger.com/) - Dari coder untuk semua orang | Memberi wawasan seputar web development, dan teknologi informasi lainnya.
+- [Evilfactorylabs](https://www.evilfactorylabs.org/) - Sebuah perkumpulan untuk membagikan tulisan dan saling berkolaborasi keterampilan dalam industri TI.
+- [Kodinger](https://kodinger.com/) - Kodinger adalah tempat membagikan karya seputar web development, pemrograman dan teknologi informasi.
 
 ## Content Delivery Network
 
