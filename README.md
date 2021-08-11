@@ -94,9 +94,9 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 ## Miscellaneous
 
 - [Daftar API Lokal Indonesia](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA) - Berisi API tentang Data Indonesia ataupun API yang dibuat oleh developer Indonesia.
-- [Gembok Authenticator](https://github.com/rioastamal/gembok) - Software based authenticator to generate 2-Steps authentication token using browser.
-- [InstaShare](https://share.nyandev.id/) - Instant File Sharing powered by IPFS Network.
-- [IRO](https://iro.nyandev.id/) - Color converter, generator and inspection tools. Amazing Color Tools.
+- [Gembok Authenticator](https://github.com/rioastamal/gembok) - Browser based 2FA alternative to Google Authenticator.
+- [InstaShare](https://share.nyandev.id/) - An instant file sharing powered by IPFS network.
+- [IRO](https://iro.nyandev.id/) - Color converter, generator and inspection tools.
 - [thedev.id](https://thedev.id/) - A free thedev.id subdomain for developers. Connect to GitHub Pages, Netlify, Vercel or others.
 
 ## Platforms
@@ -108,5 +108,5 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 
 ## Testing
 
-- [CekWebsiteSaya.com](https://cekwebsitesaya.com/) - Alat pengecekan status website menggunakan jaringan Telkom Indonesia.
+- [CekWebsiteSaya.com](https://cekwebsitesaya.com/) - Alat pengecekan website menggunakan jaringan Telkom Indonesia.
 - [Indostatus](https://indostatus.com/) - Independent monitoring for government websites and public information center.
