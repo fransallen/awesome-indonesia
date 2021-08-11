@@ -21,9 +21,10 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 ## Books
 
 - [Belajar Dengan Jenius Golang](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Golang) - Ebook gratis untuk belajar Golang.
-- [Belajar Dengan Jenius Node.js](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-AWS-Node.js) - Ebook gratis untuk belajar NodeJs.
+- [Belajar Dengan Jenius Node.js](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-AWS-Node.js) - Ebook gratis untuk belajar Node.js.
 - [Belajar Dengan Jenius Deno](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DenoTheWKWKLand) - Ebook gratis untuk belajar Deno.
 - [Belajar Node.js Melalui Aplikasi Web](https://belajar-nodejs.sajen.id/nodejs) - Ebook gratis untuk belajar pemrograman di platform Node.js khususnya untuk membangun aplikasi web.
+- [Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com/) - Ebook gratis untuk mempelajari Golang dari dasar dan dilengkapi dengan tutorial untuk mempraktikan setiap materi secara lengkap dan runtut.
 - [Mastering JavaScript](https://github.com/gungunfebrianza/Mastering-Javascript) - Ebook gratis untuk belajar JavaScript.
 - [Mastering PHP 7](https://github.com/gungunfebrianza/Mastering-PHP7) - Ebook gratis untuk belajar PHP.
 - [Mengenal JavaScript](https://masputih.com/2013/01/ebook-gratis-mengenal-javascript) - Ebook gratis untuk belajar JavaScript.
@@ -33,12 +34,13 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 ## Bootcamp
 
 - [Arkademy](https://www.arkademy.com/) - Program pelatihan dan penyaluran kerja untuk berkarir di bidang teknologi.
-- [Baba Studio](https://www.babastudio.com/) - Kursus Web, Digital Marketing & Toko Online Terbaik di Jakarta, Serpong dan Bekasi.
-- [Codepolitan](https://www.codepolitan.com/) - Website tempat belajar pemrograman berbahasa Indonesia lengkap dengan beragam format seperti kelas online, tutorial, training dan ebook.
-- [Dicoding](https://www.dicoding.com/) - Jadilah developer expert menggunakan kurikulum standar internasional dari principal technology owner seperti Google, Microsoft, AWS, IBM, dan LINE.
-- [Dumbways](https://dumbways.id/) - DumbWays merupakan Coding Bootcamp GRATIS pertama di Indonesia. Siswa akan dibekali kemampuan standard industri.
-- [Hacktiv8](https://www.hacktiv8.com/) - Sebuah pelatihan yang terdiri dari Full Time Program dan Professional Development demi mempersiapkan digital talent di Indonesia.
-- [Refactory](https://refactory.id/) - Online learning course dan Bootcamp programming.
+- [Baba Studio](https://www.babastudio.com/) - Tempat kursus pemrograman web, SEO, digital marketing & bisnis online.
+- [CodePolitan](https://www.codepolitan.com/) - Tempat belajar pemrograman berbahasa Indonesia lengkap dengan beragam format seperti kelas online, tutorial, training dan ebook.
+- [Dicoding](https://www.dicoding.com/) - Sebuah platform edukasi teknologi.
+- [DumbWays](https://dumbways.id/) - Sebuah coding bootcamp gratis. Siswa akan dibekali kemampuan standar industri.
+- [Enigmacamp](https://www.enigmacamp.com/) - Enigmacamp merupakan bootcamp dengan model Ready To Work.
+- [Hacktiv8](https://www.hacktiv8.com/) - Sebuah pelatihan yang terdiri dari full time program dan professional development demi mempersiapkan digital talent di Indonesia.
+- [Refactory](https://refactory.id/) - Sebuah bootcamp programming.
 
 ## Community
 
@@ -63,12 +65,12 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 
 ## Development Environment
 
-- [Bangjago Emulatior](https://github.com/restuwahyu13/bangjago-android-emulator) - Is simple android emulator cli for mobile development on windows.
-- [Gopack CLI](https://github.com/restuwahyu13/gopack-cli) - Is instant package downloader for Go Programming.
+- [Bangjago Emulator](https://github.com/restuwahyu13/bangjago-android-emulator) - A simple Android emulator for mobile development on Windows.
+- [Gopack CLI](https://github.com/restuwahyu13/gopack-cli) - An instant package downloader for Golang.
 - [Go Playground Converter](https://github.com/restuwahyu13/go-playground-converter) - Is formatter error response inspiration like express-validator in nodejs build on top go-playground-validator.
-- [Graphql Typedefs Loader](https://github.com/restuwahyu13/graphql-typedefs-loader) - Is multiple loader for graphql schema file
-- [Is Any Type](https://github.com/restuwahyu13/is-any-type) - Is simple functionality alternative to check data type references such as typeof and instanceof
-- [Kraken Node](https://github.com/restuwahyu13/kraken-node) Is dependency injection to register module to global access
+- [GraphQL Typedefs Loader](https://github.com/restuwahyu13/graphql-typedefs-loader) - Multiple loader for GraphQL schema file.
+- [Is Any Type](https://github.com/restuwahyu13/is-any-type) - A simple JavaScript function for checking data types, alternative to typeof and instanceof.
+- [Kraken Node](https://github.com/restuwahyu13/kraken-node) - Dependency injection to register module to global access.
 - [LEMPer](https://github.com/joglomedia/LEMPer) - A terminal-based LEMP stack manager for Debian/Ubuntu cloud or virtual server (vps) and on-premise (bare metal).
 
 ## Events
@@ -77,28 +79,31 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 
 ## Learn
 
-- [Daeng Web](https://daengweb.id/) - Ngoding itu mudah & menyenangkan, bila segera dikerjakan tanpa banyak alasan. Belajar Sekarang.
-- [Dunia Ilkom](https://www.duniailkom.com/) - Duniailkom adalah web belajar programming Bahasa Indonesia. Membahas lengkap materi pemrograman HTML, CSS, PHP Dll.
+- [Code Saya](https://codesaya.com/) - CodeSaya merupakan situs belajar git, pemrograman PHP dan Python yang interaktif serta gratis.
+- [Daeng Web](https://daengweb.id/) - Tutorial PHP, HTML, JavaScript dan framework PHP seperti Laravel.
+- [Dunia Ilkom](https://www.duniailkom.com/) - Situs belajar programming Bahasa Indonesia yang membahas lengkap materi pemrograman HTML, CSS, PHP, MySQL, JavaScript, jQuery, WordPress, cPanel, Pascal, C, C++, Java hingga Laravel.
 - [Idiom Is Fun](https://idiomis.fun/) - A collection of hundreds English idioms so that you can understand what every native speakers actually talk about.
-- [Jago Web Dev](https://jagowebdev.com/)
-- [Petani Code](https://www.petanikode.com/) - Website tempat belajar budidaya kode (coding/pemrograman) dengan tutorial terupdate dan mudah dipahami pemula.
-- [PuloDev](https://pulo.dev/) - Kumpulan konten developer berbahasa Indonesia.
-- [Malas Ngoding](https://www.malasngoding.com/) - Malas Ngoding adalah blog yang membahas tentang tutorial belajar pemrograman web, mobile, design.
+- [Jago Web Dev](https://jagowebdev.com/) - Pusat belajar web development.
 - [Mahir Koding](https://www.mahirkoding.com/) - Mahir Koding adalah situs edukasi seputar pemrograman dan informasi tentang teknologi terbarukan.
+- [Malas Ngoding](https://www.malasngoding.com/) - Malas Ngoding adalah blog yang membahas tentang tutorial belajar pemrograman web, mobile, dan design.
+- [Petani Kode](https://www.petanikode.com/) - Website tempat belajar budidaya kode (coding) dengan tutorial terupdate dan mudah dipahami pemula.
+- [PuloDev](https://pulo.dev/) - Kumpulan konten developer berbahasa Indonesia.
+- [TeknoCerdas](https://teknocerdas.com/) - Website seputar berita IT, tutorial programming, cloud computing, security dan tips-tips menarik.
 
 ## Learn (Video)
 
-- [Belajar Koding](https://belajarkoding.com/) - Belajar ilmu coding dan desain untuk karirmu sekarang — kembangkan skill — dapatkan pekerjaan impian IT kamu. COBA GRATIS!
-- [Build With Angga](https://buildwithangga.com/) - Logo buildwithangga · Flash Sale; Kelas. Kelas Design. UI/UX & Graphic Design · Kelas Koding. Full-Stack Developer · Kelas Soft Skills.
-- [Jago Web Dev](https://jagowebdev.com/) - Learning center, pusat belajar web development terbaik.
+- [Belajar Koding](https://belajarkoding.com/) - Belajar coding, desain dan development secara gratis.
+- [Build With Angga](https://buildwithangga.com/) - Belajar design dan code.
 - [Multinity](https://multinity.id/) - Kursus affordable web development, UI desain, dan lainnya.
-- [Progate](https://progate.com/) - Progate is an online platform to learn programming. Learn to build your own apps and services.
-- [Sekolah Koding](https://sekolahkoding.com/) - Tempat belajar programming mulai dari dasar untuk membuat website atau aplikasi dalam bahasa indonesia melalui tulisan dan video tutorial.
+- [Progate](https://progate.com/) - Situs belajar coding.
+- [Sekolah Koding](https://sekolahkoding.com/) - Tempat belajar programming mulai dari dasar untuk membuat website atau aplikasi dalam Bahasa Indonesia melalui tulisan dan video tutorial.
 
 ## Miscellaneous
 
-- [InstaShare](https://share.nyandev.id/) - Instant File Sharing powered by IPFS Network.
-- [IRO](https://iro.nyandev.id/) - Color converter, generator and inspection tools. Amazing Color Tools.
+- [Daftar API Lokal Indonesia](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA) - Berisi API tentang Data Indonesia ataupun API yang dibuat oleh developer Indonesia.
+- [Gembok Authenticator](https://github.com/rioastamal/gembok) - Browser based 2FA alternative to Google Authenticator.
+- [InstaShare](https://share.nyandev.id/) - An instant file sharing powered by IPFS network.
+- [IRO](https://iro.nyandev.id/) - Color converter, generator and inspection tools.
 - [thedev.id](https://thedev.id/) - A free thedev.id subdomain for developers. Connect to GitHub Pages, Netlify, Vercel or others.
 
 ## Platforms
@@ -110,5 +115,5 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 
 ## Testing
 
-- [CekWebsiteSaya.com](https://cekwebsitesaya.com/) - Alat pengecekan status website menggunakan jaringan Telkom Indonesia.
+- [CekWebsiteSaya.com](https://cekwebsitesaya.com/) - Alat pengecekan website menggunakan jaringan Telkom Indonesia.
 - [Indostatus](https://indostatus.com/) - Independent monitoring for government websites and public information center.
