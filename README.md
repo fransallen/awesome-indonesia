@@ -77,6 +77,7 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 - [PuloDev](https://pulo.dev/) - Kumpulan konten developer berbahasa Indonesia.
 - [Malas Ngoding](https://www.malasngoding.com/) - Malas Ngoding adalah blog yang membahas tentang tutorial belajar pemrograman web, mobile, design.
 - [Mahir Koding](https://www.mahirkoding.com/) - Mahir Koding adalah situs edukasi seputar pemrograman dan informasi tentang teknologi terbarukan.
+- [TeknoCerdas](https://teknocerdas.com/) - Website seputar berita IT, tutorial programming, cloud computing, security dan tips-tips menarik.
 
 ## Learn (Video)
 
@@ -90,6 +91,7 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 ## Miscellaneous
 
 - [Daftar API Lokal Indonesia](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA) - Berisi API tentang Data Indonesia ataupun API yang dibuat oleh developer Indonesia.
+- [Gembok Authenticator](https://github.com/rioastamal/gembok) - Software based authenticator to generate 2-Steps authentication token using browser.
 - [InstaShare](https://share.nyandev.id/) - Instant File Sharing powered by IPFS Network.
 - [IRO](https://iro.nyandev.id/) - Color converter, generator and inspection tools. Amazing Color Tools.
 - [thedev.id](https://thedev.id/) - A free thedev.id subdomain for developers. Connect to GitHub Pages, Netlify, Vercel or others.
