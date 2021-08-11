@@ -89,6 +89,7 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 
 ## Miscellaneous
 
+- [Daftar API Lokal Indonesia](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA) - Berisi API tentang Data Indonesia ataupun API yang dibuat oleh developer Indonesia.
 - [InstaShare](https://share.nyandev.id/) - Instant File Sharing powered by IPFS Network.
 - [IRO](https://iro.nyandev.id/) - Color converter, generator and inspection tools. Amazing Color Tools.
 - [thedev.id](https://thedev.id/) - A free thedev.id subdomain for developers. Connect to GitHub Pages, Netlify, Vercel or others.
