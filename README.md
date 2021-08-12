@@ -6,6 +6,7 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 
 - [Books](#books)
 - [Bootcamp](#bootcamp)
+- [Community](#community)
 - [Content Delivery Network](#content-delivery-network)
 - [Content Management Systems](#content-management-systems)
 - [Design](#design)
@@ -27,6 +28,7 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 - [Mastering JavaScript](https://github.com/gungunfebrianza/Mastering-Javascript) - Ebook gratis untuk belajar JavaScript.
 - [Mastering PHP 7](https://github.com/gungunfebrianza/Mastering-PHP7) - Ebook gratis untuk belajar PHP.
 - [Mengenal JavaScript](https://masputih.com/2013/01/ebook-gratis-mengenal-javascript) - Ebook gratis untuk belajar JavaScript.
+- [Memulai Petunjuk UX dari NOL](https://www.halodesigners.com/petunjuk-ux) - Digital mini-book untuk belajar UI UX design dan research.
 - [Tailwind CSS](https://multinity.id/book/tailwind-css) - Ebook untuk belajar Tailwind CSS Bahasa Indonesia.
 
 ## Bootcamp
@@ -39,6 +41,11 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 - [Enigmacamp](https://www.enigmacamp.com/) - Enigmacamp merupakan bootcamp dengan model Ready To Work.
 - [Hacktiv8](https://www.hacktiv8.com/) - Sebuah pelatihan yang terdiri dari full time program dan professional development demi mempersiapkan digital talent di Indonesia.
 - [Refactory](https://refactory.id/) - Sebuah bootcamp programming.
+
+## Community
+
+- [Evilfactorylabs](https://www.evilfactorylabs.org/) - Sebuah perkumpulan untuk membagikan tulisan dan saling berkolaborasi keterampilan dalam industri TI.
+- [Kodinger](https://kodinger.com/) - Kodinger adalah tempat membagikan karya seputar web development, pemrograman dan teknologi informasi.
 
 ## Content Delivery Network
 
@@ -53,7 +60,8 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 - [Blobbb Fun](https://blobbb.fun/) - Create your fluffy blobby SVG shapes in seconds. It's super fun!
 - [BlobCDN](https://upset.dev/blobcdn) - The CDN for beautiful SVG shapes.
 - [Color Picker](https://taufik-nurrohman.js.org/color-picker/) - A simple color picker written in pure JavaScript, for modern browsers.
-- [Stisla](https://getstisla.com/) - A free Bootstrap admin template.
+- [Mazer](https://zuramai.github.io/mazer/) - Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page.
+- [Stisla](https://getstisla.com/) - Free Bootstrap Admin Template.
 
 ## Development Environment
 
