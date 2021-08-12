@@ -57,6 +57,7 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 - [Karyakarsa](https://karyakarsa.com/) - Platform yang memudahkan kreator mendapatkan dukungan finansial secara langsung dari fans.
 - [Supersewa](https://supersewa.com/) - Sebuah SaaS penyewaan alat-alat kebutuhan.
 - [SlashApi](https://slashapi.com/) - SlashApi is a web platform to build REST APIs fast without having to write any code yourself. SlashApi connects with all common apps and tools that you use every day.
+- [Bantu Sumsel](https://bantu.sumsel.co//) - Platfomr Bantu warga terdampak pandemi Covid-19 untuk wilayah sumsel.
 
 ## Testing
 
