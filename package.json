@@ -2,9 +2,11 @@
   "name": "awesome.id",
   "private": true,
   "scripts": {
-    "format": "prettier --write '**/README.md'"
+    "format": "prettier --write '**/README.md'",
+    "serve": "docsify serve ."
   },
   "devDependencies": {
+    "docsify": "^4.12.1",
     "prettier": "^2.3.2"
   }
 }
