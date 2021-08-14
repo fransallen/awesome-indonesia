@@ -84,6 +84,7 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 - [Petani Kode](https://www.petanikode.com/) - Website tempat belajar budidaya kode (coding) dengan tutorial terupdate dan mudah dipahami pemula.
 - [PuloDev](https://pulo.dev/) - Kumpulan konten developer berbahasa Indonesia.
 - [TeknoCerdas](https://teknocerdas.com/) - Website seputar berita IT, tutorial programming, cloud computing, security dan tips-tips menarik.
+- [Skidipap.me](https://skidipap.me/) - Template belajar seputar data science, machine learning, dan deep learning yang mencakup teori hingga praktek.
 
 ## Learn (Video)
 
