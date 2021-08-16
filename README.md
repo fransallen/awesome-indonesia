@@ -86,7 +86,6 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 - [Skidipap.me](https://skidipap.me/) - Template belajar seputar data science, machine learning, dan deep learning yang mencakup teori hingga praktek.
 - [TeknoCerdas](https://teknocerdas.com/) - Website seputar berita IT, tutorial programming, cloud computing, security dan tips-tips menarik.
 
-
 ## Learn (Video)
 
 - [Belajar Koding](https://belajarkoding.com/) - Belajar coding, desain dan development secara gratis.
