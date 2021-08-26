@@ -77,6 +77,7 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 - [Code Saya](https://codesaya.com/) - CodeSaya merupakan situs belajar git, pemrograman PHP dan Python yang interaktif serta gratis.
 - [Daeng Web](https://daengweb.id/) - Tutorial PHP, HTML, JavaScript dan framework PHP seperti Laravel.
 - [Dunia Ilkom](https://www.duniailkom.com/) - Situs belajar programming Bahasa Indonesia yang membahas lengkap materi pemrograman HTML, CSS, PHP, MySQL, JavaScript, jQuery, WordPress, cPanel, Pascal, C, C++, Java hingga Laravel.
+- [Gadis Koding](https://gadiskoding.my.id/) - Gadis Koding adalah situs blog berisi tulisan terkait informatika.
 - [Idiom Is Fun](https://idiomis.fun/) - A collection of hundreds English idioms so that you can understand what every native speakers actually talk about.
 - [Jago Web Dev](https://jagowebdev.com/) - Pusat belajar web development.
 - [Mahir Koding](https://www.mahirkoding.com/) - Mahir Koding adalah situs edukasi seputar pemrograman dan informasi tentang teknologi terbarukan.
