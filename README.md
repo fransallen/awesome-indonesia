@@ -110,6 +110,7 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 - [Karyakarsa](https://karyakarsa.com/) - Platform yang memudahkan kreator mendapatkan dukungan finansial secara langsung dari fans.
 - [SlashApi](https://slashapi.com/) - SlashApi is a web platform to build REST APIs fast without having to write any code yourself. SlashApi connects with all common apps and tools that you use every day.
 - [Supersewa](https://supersewa.com/) - Sebuah SaaS penyewaan alat-alat kebutuhan.
+- [Musik88](https://musik88.com/) - Komunitas musik berbasis kecerdasan buatan. Ditulis dengan Ruby on Rails dan beberapa perangkat lunak sumber-terbuka lainnya ([Stackshare](https://stackshare.io/musik88/musik88-web)).
 
 ## Testing
 
