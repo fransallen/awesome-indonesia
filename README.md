@@ -104,6 +104,7 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 - [InstaShare](https://share.nyandev.id/) - An instant file sharing powered by IPFS network.
 - [IRO](https://iro.nyandev.id/) - Color converter, generator and inspection tools.
 - [thedev.id](https://thedev.id/) - A free thedev.id subdomain for developers. Connect to GitHub Pages, Netlify, Vercel or others.
+- [Watermark KTP](https://sirilius.github.io/watermarkktp/) - Sebuah alat sederhana untuk menambahkan watermark pada KTP.
 
 ## Platforms
 
