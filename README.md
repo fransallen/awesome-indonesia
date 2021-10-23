@@ -74,7 +74,7 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 
 ## Learn
 
-- [Bellshade](https://bellshade.github.io/) - Bellshade adalah organisasi yang bergerak di bidang edukasi dan bersifat sumber terbuka (open source). Bellshade dikelola dan berada di bawah naungan komunitas Web Programming UNPAS (WPU).
+- [Bellshade](https://bellshade.org/) - Bellshade adalah organisasi yang bergerak di bidang edukasi dan bersifat sumber terbuka (open source). Bellshade dikelola dan berada di bawah naungan komunitas Web Programming UNPAS (WPU).
 - [Code Saya](https://codesaya.com/) - CodeSaya merupakan situs belajar git, pemrograman PHP dan Python yang interaktif serta gratis.
 - [Daeng Web](https://daengweb.id/) - Tutorial PHP, HTML, JavaScript dan framework PHP seperti Laravel.
 - [Dunia Ilkom](https://www.duniailkom.com/) - Situs belajar programming Bahasa Indonesia yang membahas lengkap materi pemrograman HTML, CSS, PHP, MySQL, JavaScript, jQuery, WordPress, cPanel, Pascal, C, C++, Java hingga Laravel.
