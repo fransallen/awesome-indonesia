@@ -103,6 +103,7 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 
 ## Miscellaneous
 
+- [Cosmopass](https://cosmopass.xyz) - Web-based open source passphrase generator for multiple languages, including Indonesian. 
 - [Covid-19 API](https://github.com/mathdroid/covid-19-api) - COVID-19 global data (from JHU CSSE for now) as-a-service.
 - [Daftar API Lokal Indonesia](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA) - Berisi API tentang Data Indonesia ataupun API yang dibuat oleh developer Indonesia.
 - [Gembok Authenticator](https://github.com/rioastamal/gembok) - Browser based 2FA alternative to Google Authenticator.
