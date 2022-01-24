@@ -44,8 +44,10 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 
 ## Community
 
+- [Bikin Bikin Club](https://bikin.club/) - Tempat ngobrol yang nyaman untuk teman-teman yang sering berbagi di internet. Baik developer, designer atau area tech lainnya.
 - [Evilfactorylabs](https://www.evilfactorylabs.org/) - Sebuah perkumpulan untuk membagikan tulisan dan saling berkolaborasi keterampilan dalam industri TI.
 - [Kodinger](https://kodinger.com/) - Kodinger adalah tempat membagikan karya seputar web development, pemrograman dan teknologi informasi.
+- [Kotakode](https://kotakode.com/) - Situs forum tanya-jawab, platform blogging, dan komunitas bagi programmer dan pegiat IT di Indonesia.
 
 ## Content Delivery Network
 
@@ -53,6 +55,7 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 
 ## Content Management Systems
 
+- [HAM](https://ham.reinhart1010.id/) - A Jekyll-based boilerplate template for generating better, static wiki-style websites.
 - [Mecha CMS](https://mecha-cms.com/) - A flat-file content management system for minimalists.
 
 ## Design
@@ -83,6 +86,7 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 - [Jago Web Dev](https://jagowebdev.com/) - Pusat belajar web development.
 - [Mahir Koding](https://www.mahirkoding.com/) - Mahir Koding adalah situs edukasi seputar pemrograman dan informasi tentang teknologi terbarukan.
 - [Malas Ngoding](https://www.malasngoding.com/) - Malas Ngoding adalah blog yang membahas tentang tutorial belajar pemrograman web, mobile, dan design.
+- [Nix](https://nix.reinhart1010.id/) - Daftar ringkasan cara pengunaan perintah dalam command-line. Data diperoleh dari proyek [tldr-pages](https://github.com/tldr-pages/tldr/).
 - [Petani Kode](https://www.petanikode.com/) - Website tempat belajar budidaya kode (coding) dengan tutorial terupdate dan mudah dipahami pemula.
 - [PuloDev](https://pulo.dev/) - Kumpulan konten developer berbahasa Indonesia.
 - [Skidipap.me](https://skidipap.me/) - Template belajar seputar data science, machine learning, dan deep learning yang mencakup teori hingga praktek.
@@ -114,6 +118,7 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 - [Karyakarsa](https://karyakarsa.com/) - Platform yang memudahkan kreator mendapatkan dukungan finansial secara langsung dari fans.
 - [SlashApi](https://slashapi.com/) - SlashApi is a web platform to build REST APIs fast without having to write any code yourself. SlashApi connects with all common apps and tools that you use every day.
 - [Supersewa](https://supersewa.com/) - Sebuah SaaS penyewaan alat-alat kebutuhan.
+- [Unlimited App](https://unlimited-app.com/) - Platform yang memudahkan para desainer untuk saling berbagi dan menawarkan jasa desain untuk siapapun.
 
 ## Testing
 
