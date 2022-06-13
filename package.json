@@ -1,5 +1,5 @@
 {
-  "name": "awesome.id",
+  "name": "awesome-indonesia",
   "private": true,
   "scripts": {
     "format": "prettier --write '**/README.md'",
