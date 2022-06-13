@@ -6,6 +6,7 @@
     "serve": "docsify serve ."
   },
   "devDependencies": {
+
     "docsify": "^4.12.1",
     "prettier": "^2.3.2"
   }

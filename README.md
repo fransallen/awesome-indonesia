@@ -49,6 +49,10 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 - [Kodinger](https://kodinger.com/) - Kodinger adalah tempat membagikan karya seputar web development, pemrograman dan teknologi informasi.
 - [Kotakode](https://kotakode.com/) - Situs forum tanya-jawab, platform blogging, dan komunitas bagi programmer dan pegiat IT di Indonesia.
 
+## Bootcamp
+
+- [Sysnap Academy](https://sydemy.com/) - Salah startup yang bergerak dibidang pendidikan.
+
 ## Content Delivery Network
 
 - [Statically](https://statically.io/) - A free CDN for developers.
@@ -116,6 +120,7 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 ## Platforms
 
 - [BagiRata](https://bagirata.id/) - Platform subsidi silang untuk membantu kondisi finansial para pekerja yang terkena dampak ekonomi di tengah ketidakpastian pandemi COVID-19.
+- [Bantu Sumsel](https://bantu.sumsel.co//) - Platfomr Bantu warga untuk warga sumsel yang terdampak pandemi Covid-19.
 - [Karyakarsa](https://karyakarsa.com/) - Platform yang memudahkan kreator mendapatkan dukungan finansial secara langsung dari fans.
 - [SlashApi](https://slashapi.com/) - SlashApi is a web platform to build REST APIs fast without having to write any code yourself. SlashApi connects with all common apps and tools that you use every day.
 - [Supersewa](https://supersewa.com/) - Sebuah SaaS penyewaan alat-alat kebutuhan.
