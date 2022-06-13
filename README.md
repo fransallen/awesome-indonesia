@@ -14,6 +14,7 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 - [Events](#events)
 - [Learn](#learn)
 - [Learn (Video)](#learn-video)
+- [Monitoring](#monitoring)
 - [Miscellaneous](#miscellaneous)
 - [Platforms](#platforms)
 - [Testing](#testing)
@@ -104,6 +105,9 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 - [Multinity](https://multinity.id/) - Kursus affordable web development, UI desain, dan lainnya.
 - [Progate](https://progate.com/) - Situs belajar coding.
 - [Sekolah Koding](https://sekolahkoding.com/) - Tempat belajar programming mulai dari dasar untuk membuat website atau aplikasi dalam Bahasa Indonesia melalui tulisan dan video tutorial.
+
+## Monitoring
+- [Monika](https://monika.hyperjump.tech/) - A command line application to monitor every part of your web app using a simple YAML configuration file. Get alert not only when your site is down but also when it's slow.
 
 ## Miscellaneous
 
