@@ -1,4 +1,4 @@
-# Awesome Indonesia [![Awesome](https://cdn.statically.io/gh/sindresorhus/awesome/main/media/badge.svg)](https://github.com/fransallen/awesome.id)
+# Awesome Indonesia [![Awesome](https://cdn.statically.io/gh/sindresorhus/awesome/main/media/badge.svg)](https://github.com/fransallen/awesome-indonesia)
 
 Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer dan founder dari Indonesia.
 
