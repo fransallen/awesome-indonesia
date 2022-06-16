@@ -34,6 +34,7 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 
 ## Bootcamp
 
+- [Adinusa](https://adinusa.id/) - Adinusa atau Akademi Digital Nusantara adalah program bootcamp khusus untuk DevOps dan Cloud track.
 - [Arkademy](https://www.arkademy.com/) - Program pelatihan dan penyaluran kerja untuk berkarir di bidang teknologi.
 - [Baba Studio](https://www.babastudio.com/) - Tempat kursus pemrograman web, SEO, digital marketing & bisnis online.
 - [CodePolitan](https://www.codepolitan.com/) - Tempat belajar pemrograman berbahasa Indonesia lengkap dengan beragam format seperti kelas online, tutorial, training dan ebook.
