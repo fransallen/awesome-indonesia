@@ -43,6 +43,7 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 - [Enigmacamp](https://www.enigmacamp.com/) - Enigmacamp merupakan bootcamp dengan model Ready To Work.
 - [Hacktiv8](https://www.hacktiv8.com/) - Sebuah pelatihan yang terdiri dari full time program dan professional development demi mempersiapkan digital talent di Indonesia.
 - [Refactory](https://refactory.id/) - Sebuah bootcamp programming.
+- [Sysnap Academy](https://sydemy.com/) - Salah startup yang bergerak dibidang pendidikan.
 
 ## Community
 
@@ -50,10 +51,6 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 - [Evilfactorylabs](https://www.evilfactorylabs.org/) - Sebuah perkumpulan untuk membagikan tulisan dan saling berkolaborasi keterampilan dalam industri TI.
 - [Kodinger](https://kodinger.com/) - Kodinger adalah tempat membagikan karya seputar web development, pemrograman dan teknologi informasi.
 - [Kotakode](https://kotakode.com/) - Situs forum tanya-jawab, platform blogging, dan komunitas bagi programmer dan pegiat IT di Indonesia.
-
-## Bootcamp
-
-- [Sysnap Academy](https://sydemy.com/) - Salah startup yang bergerak dibidang pendidikan.
 
 ## Content Delivery Network
 
