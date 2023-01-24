@@ -94,7 +94,7 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 - [PuloDev](https://pulo.dev/) - Kumpulan konten developer berbahasa Indonesia.
 - [Skidipap.me](https://skidipap.me/) - Template belajar seputar data science, machine learning, dan deep learning yang mencakup teori hingga praktek.
 - [TeknoCerdas](https://teknocerdas.com/) - Website seputar berita IT, tutorial programming, cloud computing, security dan tips-tips menarik.
-- [Komputapedia](https://www.komputapedia.web.id/) - Enskilopedia ilmu komputasil terbuka berbahasa Indonesia.
+- [Komputapedia](https://www.komputapedia.web.id/) - Enskilopedia ilmu komputasi terbuka berbahasa Indonesia.
 
 ## Learn (Video)
 
