@@ -141,8 +141,11 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 - [Bahasa](https://github.com/IndoNLP/bahasa) - Natural Language Processing toolkit for Bahasa Indonesia by IndoNLP.
 - [IndoBenchmark](https://github.com/IndoNLP/indobenchmark) - Benchmark dataset and models for Indonesian NLP tasks.
 - [Cendol](https://github.com/IndoNLP/cendol) - A unified framework for Indonesian NLP tasks.
+- [Sabda](https://github.com/sabda-python/sabda) - Python library for Indonesian language processing and text analysis.
 
 ## Open Source Tools
 
 - [Rustpage](https://github.com/restuwahyu13/rustpage) - A simple CLI tool to create Rust web project structure.
 - [Golang API Boilerplate](https://github.com/restuwahyu13/go-rest-api) - Go REST API boilerplate with clean architecture.
+- [Serenity/ID](https://github.com/nicnocquee/serenity-id) - Indonesian language pack and localization tools.
+- [API Wilayah Indonesia](https://github.com/emsifa/api-wilayah-indonesia) - Static API generator for Indonesian administrative regions (provinsi, kabupaten/kota, kecamatan, desa/kelurahan).
