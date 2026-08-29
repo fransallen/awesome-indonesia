@@ -110,12 +110,14 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 ## Miscellaneous
 
 - [Cosmopass](https://cosmopass.xyz) - Web-based open source passphrase generator for multiple languages, including Indonesian. 
+- [API Indonesia](https://apiindonesia.id/) - REST API data publik Indonesia (wilayah, kodepos, cuaca, gempa, kurs, berita, dan lainnya). Tersedia tier gratis dan berbayar dengan dokumentasi lengkap dan skema OpenAPI.
 - [Covid-19 API](https://github.com/mathdroid/covid-19-api) - COVID-19 global data (from JHU CSSE for now) as-a-service.
 - [Daftar API Lokal Indonesia](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA) - Berisi API tentang Data Indonesia ataupun API yang dibuat oleh developer Indonesia.
 - [Gembok Authenticator](https://github.com/rioastamal/gembok) - Browser based 2FA alternative to Google Authenticator.
 - [giscus](https://giscus.app) - A comments system powered by GitHub Discussions that works on any website, static or dynamic.
 - [Gramatika](https://gramatika.app/) - Asisten menulis Bahasa Indonesia baku dan KBBI di peramban (browser) dan aplikasi ponsel.
 - [InstaShare](https://share.nyandev.id/) - An instant file sharing powered by IPFS network.
+- [StudioAPI](https://studioapi.dev/) - Unified multi-source, agent-ready REST API yang menggabungkan 30+ sumber data publik Indonesia (wilayah, cuaca, gempa, kurs, halal, BPOM, KBBI, sekolah, rumah sakit, kodepos, dll.) dalam satu kontrak REST. Tier gratis dan berbayar.
 - [IRO](https://iro.nyandev.id/) - Color converter, generator and inspection tools.
 - [thedev.id](https://thedev.id/) - A free thedev.id subdomain for developers. Connect to GitHub Pages, Netlify, Vercel or others.
 - [Watermark KTP](https://sirilius.github.io/watermarkktp/) - Sebuah alat sederhana untuk menambahkan watermark pada KTP.
