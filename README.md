@@ -51,6 +51,7 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 - [Evilfactorylabs](https://www.evilfactorylabs.org/) - Sebuah perkumpulan untuk membagikan tulisan dan saling berkolaborasi keterampilan dalam industri TI.
 - [Kodinger](https://kodinger.com/) - Kodinger adalah tempat membagikan karya seputar web development, pemrograman dan teknologi informasi.
 - [Kotakode](https://kotakode.com/) - Situs forum tanya-jawab, platform blogging, dan komunitas bagi programmer dan pegiat IT di Indonesia.
+- [Mode VC Radar MCP](https://modevc.com/api/mcp) - Read-only venture capital & AI market research MCP server (39 empirical AI charts, 3,650 VC firms, SEC Form D filings, and 18 founder financial calculators; free Streamable HTTP at https://modevc.com/api/mcp).
 
 ## Content Delivery Network
 
